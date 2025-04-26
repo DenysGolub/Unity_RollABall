@@ -1,0 +1,11 @@
+Model Information:
+* title:	Obese_villager_1207031234_texture
+* source:	https://sketchfab.com/3d-models/obese-villager-1207031234-texture-3f10ee69928a47ccb462672055629e01
+* author:	p152347 Ummi Hafizah Abd Halim (https://sketchfab.com/p152347ummihafizah)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Obese_villager_1207031234_texture" (https://sketchfab.com/3d-models/obese-villager-1207031234-texture-3f10ee69928a47ccb462672055629e01) by p152347 Ummi Hafizah Abd Halim (https://sketchfab.com/p152347ummihafizah) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

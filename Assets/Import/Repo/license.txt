@@ -1,0 +1,11 @@
+Model Information:
+* title:	Repo
+* source:	https://sketchfab.com/3d-models/repo-fbc27be8126d413188cd291ffa8ded10
+* author:	Kovonic (https://sketchfab.com/Kovonic)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Repo" (https://sketchfab.com/3d-models/repo-fbc27be8126d413188cd291ffa8ded10) by Kovonic (https://sketchfab.com/Kovonic) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

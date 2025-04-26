@@ -1,0 +1,2181 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &57129466870396541
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8790882622819601533}
+  m_Layer: 0
+  m_Name: bones_HeadBone007Bone001_036
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8790882622819601533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 57129466870396541}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.000000015375662, y: 0.000000044542514, z: -0.010633221, w: -0.9999435}
+  m_LocalPosition: {x: 5.4882126, y: -0.0000038146973, z: -0.0000038146973}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6292860897825929739}
+  m_LocalEulerAnglesHint: {x: 0.0000059760773, y: 0.00000006354912, z: 0.6092558}
+--- !u!1 &147184892973360490
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3926062693064262502}
+  m_Layer: 0
+  m_Name: wolf_base_mesh
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3926062693064262502
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147184892973360490}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7064338, y: 0.030843562, z: -0.030843562, w: -0.7064338}
+  m_LocalPosition: {x: -1.2959938e-19, y: -0.0018099212, z: 0.0049767112}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6221601849282806139}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &147949691606011779
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4140000070077550302}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLeg1_06
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4140000070077550302
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 147949691606011779}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.81300104, y: 0.5797971, z: 0.045823377, w: -0.027656052}
+  m_LocalPosition: {x: -2.1890106, y: 1.2703094, z: 7.0444818}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7037817776970550639}
+  m_Father: {fileID: 6837566209534046409}
+  m_LocalEulerAnglesHint: {x: -6.5194902, y: 176.79541, z: 113.35059}
+--- !u!1 &246922074035397132
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5838253327207214879}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLeg1_021
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5838253327207214879
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 246922074035397132}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.102487125, y: 0.019286377, z: 0.7071635, w: -0.6993169}
+  m_LocalPosition: {x: 24.01909, y: -0.0000038146973, z: -0.0000076293945}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3242869599917845328}
+  m_Father: {fileID: 7046951017243554972}
+  m_LocalEulerAnglesHint: {x: 9.708868, y: -6.911183, z: -99.29335}
+--- !u!1 &270746760961215263
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6899544549084681692}
+  m_Layer: 0
+  m_Name: Object_2
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6899544549084681692
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 270746760961215263}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8550489575175604683}
+  m_Father: {fileID: 6558197225704021548}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &318062406188526858
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8206844375386256178}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLegDigit02_07
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8206844375386256178
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 318062406188526858}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.040531285, y: -0.010332194, z: -0.13708325, w: -0.98967606}
+  m_LocalPosition: {x: 5.1138563, y: 0, z: -0.0000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6087914166497818395}
+  m_LocalEulerAnglesHint: {x: -4.7643824, y: 0.5369301, z: 15.749762}
+--- !u!1 &364419213530389406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8608143198597230191}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLegPalm_04
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8608143198597230191
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 364419213530389406}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.02752067, y: 0.07571592, z: -0.4702491, w: -0.87884897}
+  m_LocalPosition: {x: 25.500515, y: 0, z: 0.0000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6087914166497818395}
+  m_Father: {fileID: 6454988795800369240}
+  m_LocalEulerAnglesHint: {x: 1.3277979, y: -9.120648, z: 56.097054}
+--- !u!1 &372934648486940095
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3056056264484254458}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLegPalm_018
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3056056264484254458
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 372934648486940095}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.08361249, y: 0.010042223, z: -0.019050233, w: -0.99626565}
+  m_LocalPosition: {x: 27.475708, y: 0.000015258789, z: -0.000006914139}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6450104838867517125}
+  m_Father: {fileID: 4835391727991592088}
+  m_LocalEulerAnglesHint: {x: 8.938421, y: 2.0490634, z: 9.37971}
+--- !u!1 &401745676348473439
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6454988795800369240}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLeg2_02
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6454988795800369240
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 401745676348473439}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00054675265, y: -0.17632787, z: 0.6991786, w: -0.6928618}
+  m_LocalPosition: {x: 28.82859, y: -0.000118255615, z: -0.000049591064}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8608143198597230191}
+  m_Father: {fileID: 7537686865564541030}
+  m_LocalEulerAnglesHint: {x: 15.179028, y: 14.765096, z: -92.39712}
+--- !u!1 &422974557643905822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4237813442394090260}
+  m_Layer: 0
+  m_Name: bones_HeadBone011Bone001_042
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4237813442394090260
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 422974557643905822}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000063315504, y: -0.00000005268227, z: 0.29090458, w: -0.95675206}
+  m_LocalPosition: {x: 3.8998032, y: 2.6081848, z: -0.0000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7545773797473788291}
+  m_Father: {fileID: 5237255127936876939}
+  m_LocalEulerAnglesHint: {x: 0.0000017365536, y: -0.0000018179517, z: -33.82425}
+--- !u!1 &450557719651502315
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8595943226659688993}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLegDigit02_026
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8595943226659688993
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 450557719651502315}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0021710426, y: 0.0087296525, z: -0.25252613, w: -0.96754825}
+  m_LocalPosition: {x: 4.375641, y: 1.7763568e-15, z: 0.0000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 5673673041101939384}
+  m_LocalEulerAnglesHint: {x: 0.011903018, y: -1.0307536, z: 29.255175}
+--- !u!1 &701772949992983606
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5752371117759257188}
+  m_Layer: 0
+  m_Name: Object_6
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5752371117759257188
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 701772949992983606}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: -2.9245254e-23, z: 1.1698102e-22, w: -0.7071068}
+  m_LocalPosition: {x: 2.1175824e-22, y: -0.0018099212, z: 0.0049767112}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6221601849282806139}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &737336235426160081
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4618518433801319713}
+  m_Layer: 0
+  m_Name: Wolf_bones_herTail3_039
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4618518433801319713
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 737336235426160081}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.05001199, y: -0.020098247, z: -0.33646914, w: -0.94015074}
+  m_LocalPosition: {x: 18.013823, y: 0.0000038146973, z: -0.0000038146973}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8916493777090934450}
+  m_Father: {fileID: 166997206060126819}
+  m_LocalEulerAnglesHint: {x: -7.399876, y: 0.900964, z: 35.147728}
+--- !u!1 &774714824286900522
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7545773797473788291}
+  m_Layer: 0
+  m_Name: bones_HeadBone011Bone001Bone001_043
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7545773797473788291
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 774714824286900522}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000005344325, y: 0.00000006094977, z: -0.19865654, w: -0.98006916}
+  m_LocalPosition: {x: 4.08844, y: 0.0000076293945, z: -0.00000008940697}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2092321878667799986}
+  m_Father: {fileID: 4237813442394090260}
+  m_LocalEulerAnglesHint: {x: -0.000004774265, y: -0.000006247523, z: 22.916819}
+--- !u!1 &899343902314869999
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2769735131677708602}
+  m_Layer: 0
+  m_Name: Wolf_bones_herTail1_037
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2769735131677708602
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 899343902314869999}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.020813335, y: 0.03347043, z: -0.99413544, w: 0.10070474}
+  m_LocalPosition: {x: -5.7955017, y: -3.0975304, z: -0.0000014305115}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 166997206060126819}
+  m_Father: {fileID: 6837566209534046409}
+  m_LocalEulerAnglesHint: {x: 1.861372, y: -0.83334273, z: -166.14532}
+--- !u!1 &1102807940919138982
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5531140835898909090}
+  m_Layer: 0
+  m_Name: 001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5531140835898909090
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1102807940919138982}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6221601849282806139}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1144620365959800523
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6662151095053571716}
+  m_Layer: 0
+  m_Name: 001
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6662151095053571716
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1144620365959800523}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6221601849282806139}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1543527785340858786
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1490021244942485879}
+  - component: {fileID: 5513759154711004271}
+  m_Layer: 0
+  m_Name: Object_7
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1490021244942485879
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543527785340858786}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6221601849282806139}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!137 &5513759154711004271
+SkinnedMeshRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1543527785340858786}
+  m_Enabled: 1
+  m_CastShadows: 1
+  m_ReceiveShadows: 1
+  m_DynamicOccludee: 1
+  m_StaticShadowCaster: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 3
+  m_RayTraceProcedural: 0
+  m_RayTracingAccelStructBuildFlagsOverride: 0
+  m_RayTracingAccelStructBuildFlags: 1
+  m_SmallMeshCulling: 1
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 2100000, guid: c2113fa7a13f7054f81667cf9d3fba2b, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  serializedVersion: 2
+  m_Quality: 0
+  m_UpdateWhenOffscreen: 0
+  m_SkinnedMotionVectors: 1
+  m_Mesh: {fileID: 4300000, guid: 9573c3a02fcd4a54cba75e13f59c8c51, type: 2}
+  m_Bones:
+  - {fileID: 645597850098890286}
+  - {fileID: 6837566209534046409}
+  - {fileID: 7537686865564541030}
+  - {fileID: 6454988795800369240}
+  - {fileID: 8608143198597230191}
+  - {fileID: 6087914166497818395}
+  - {fileID: 8206844375386256178}
+  - {fileID: 4140000070077550302}
+  - {fileID: 7037817776970550639}
+  - {fileID: 4364905833709328754}
+  - {fileID: 2143150309193726165}
+  - {fileID: 4860285877605972202}
+  - {fileID: 6619504262236282359}
+  - {fileID: 3618435442102028489}
+  - {fileID: 7066199827484100933}
+  - {fileID: 6474021561516226000}
+  - {fileID: 7003320908998731969}
+  - {fileID: 2625843220526269264}
+  - {fileID: 4835391727991592088}
+  - {fileID: 3056056264484254458}
+  - {fileID: 6450104838867517125}
+  - {fileID: 6788773357022221235}
+  - {fileID: 7046951017243554972}
+  - {fileID: 5838253327207214879}
+  - {fileID: 3242869599917845328}
+  - {fileID: 4895612920541694854}
+  - {fileID: 5673673041101939384}
+  - {fileID: 8595943226659688993}
+  - {fileID: 2380385017041315157}
+  - {fileID: 980268633483023243}
+  - {fileID: 6322972341173411439}
+  - {fileID: 3044775834111321596}
+  - {fileID: 1903982247076709040}
+  - {fileID: 798383163632780113}
+  - {fileID: 1002278201175618257}
+  - {fileID: 3923222305142120387}
+  - {fileID: 6292860897825929739}
+  - {fileID: 8790882622819601533}
+  - {fileID: 2769735131677708602}
+  - {fileID: 166997206060126819}
+  - {fileID: 4618518433801319713}
+  - {fileID: 8916493777090934450}
+  - {fileID: 5237255127936876939}
+  - {fileID: 4237813442394090260}
+  - {fileID: 7545773797473788291}
+  - {fileID: 2092321878667799986}
+  m_BlendShapeWeights: []
+  m_RootBone: {fileID: 0}
+  m_AABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_DirtyAABB: 0
+--- !u!1 &1592191128719510760
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3242869599917845328}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLeg2_023
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3242869599917845328
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1592191128719510760}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.027697487, y: 0.2315698, z: -0.68284833, w: -0.69233406}
+  m_LocalPosition: {x: 14.956356, y: -0.00002670288, z: 0.00028038025}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4895612920541694854}
+  m_Father: {fileID: 5838253327207214879}
+  m_LocalEulerAnglesHint: {x: 23.89901, y: -17.689726, z: 95.33562}
+--- !u!1 &1874301437232152632
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5673673041101939384}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLegDigit01_025
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5673673041101939384
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1874301437232152632}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.011893056, y: -0.13384405, z: 0.44795936, w: -0.8838986}
+  m_LocalPosition: {x: 8.157537, y: 0.6325455, z: -0.016588211}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8595943226659688993}
+  m_Father: {fileID: 4895612920541694854}
+  m_LocalEulerAnglesHint: {x: 5.7905126, y: 13.256253, z: -56.41542}
+--- !u!1 &1954154595927935147
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5237255127936876939}
+  m_Layer: 0
+  m_Name: bones_HeadBone011_041
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5237255127936876939
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1954154595927935147}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.66644126, y: -0.23749761, z: -0.6650386, w: 0.23911212}
+  m_LocalPosition: {x: 0.0007067728, y: 0.73023474, z: -0.86616087}
+  m_LocalScale: {x: 0.01000001, y: 0.00999999, z: 0.01}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4237813442394090260}
+  m_Father: {fileID: 645597850098890286}
+  m_LocalEulerAnglesHint: {x: 1.0881777, y: -90.14125, z: -143.52002}
+--- !u!1 &2439336980004003735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 166997206060126819}
+  m_Layer: 0
+  m_Name: Wolf_bones_herTail2_038
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &166997206060126819
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2439336980004003735}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.043067362, y: -0.048539415, z: 0.19208235, w: -0.9792311}
+  m_LocalPosition: {x: 13.17923, y: 0.0000076293945, z: 0.000002861023}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4618518433801319713}
+  m_Father: {fileID: 2769735131677708602}
+  m_LocalEulerAnglesHint: {x: -3.2093525, y: 6.1417933, z: -21.428581}
+--- !u!1 &2487066027554691417
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6619504262236282359}
+  m_Layer: 0
+  m_Name: Wolf_bones_herSpine1_012
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6619504262236282359
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2487066027554691417}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0047941585, y: 0.0053384947, z: -0.11965394, w: -0.99278975}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3618435442102028489}
+  m_Father: {fileID: 6837566209534046409}
+  m_LocalEulerAnglesHint: {x: -0.9954745, y: 0.064308785, z: 14.7961855}
+--- !u!1 &2612357557125964217
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6837566209534046409}
+  m_Layer: 0
+  m_Name: Wolf_bones_herPelvis_01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6837566209534046409
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2612357557125964217}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.72356397, y: 0.13163033, z: -0.66266274, w: -0.14144525}
+  m_LocalPosition: {x: -0.0000060144466, y: 0.6429319, z: -0.011968403}
+  m_LocalScale: {x: 0.01, y: 0.01, z: 0.01}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7537686865564541030}
+  - {fileID: 4140000070077550302}
+  - {fileID: 6619504262236282359}
+  - {fileID: 2769735131677708602}
+  m_Father: {fileID: 645597850098890286}
+  m_LocalEulerAnglesHint: {x: -2.0960684, y: -94.172966, z: 157.76707}
+--- !u!1 &2638658072934499279
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3044775834111321596}
+  m_Layer: 0
+  m_Name: Wolf_bones_herHead_030
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3044775834111321596
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2638658072934499279}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.033094294, y: 0.0053840876, z: -0.3184324, w: -0.9473524}
+  m_LocalPosition: {x: 11.08036, y: -1.4210855e-14, z: 0.00003862381}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 1903982247076709040}
+  - {fileID: 798383163632780113}
+  - {fileID: 1002278201175618257}
+  - {fileID: 6292860897825929739}
+  m_Father: {fileID: 6322972341173411439}
+  m_LocalEulerAnglesHint: {x: -2.7870247, y: -1.29544, z: 37.653637}
+--- !u!1 &2789834020358111525
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1002278201175618257}
+  m_Layer: 0
+  m_Name: bones_HeadBone007_033
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1002278201175618257
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2789834020358111525}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.22541529, y: 0.12507865, z: 0.7224397, w: -0.64157945}
+  m_LocalPosition: {x: -4.2123337, y: -5.1871643, z: 7.3756614}
+  m_LocalScale: {x: 0.999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3923222305142120387}
+  m_Father: {fileID: 3044775834111321596}
+  m_LocalEulerAnglesHint: {x: -26.782276, y: 10.524324, z: -99.21064}
+--- !u!1 &2810252096867975481
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7046951017243554972}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLegShoulderblade_022
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7046951017243554972
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2810252096867975481}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.72247326, y: 0.6715495, z: -0.0014302799, w: -0.16447382}
+  m_LocalPosition: {x: -7.25893, y: -6.414898, z: 5.436159}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5838253327207214879}
+  m_Father: {fileID: 6474021561516226000}
+  m_LocalEulerAnglesHint: {x: -13.8287525, y: -167.1859, z: 97.127144}
+--- !u!1 &2958920855434016286
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2092321878667799986}
+  m_Layer: 0
+  m_Name: bones_HeadBone011Bone001Bone001Bone001_044
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2092321878667799986
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2958920855434016286}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.0000000074505766, y: -0.000000016239934, z: 0.000000089406946, w: -1}
+  m_LocalPosition: {x: 4.0884438, y: -1.4210855e-14, z: -0.00000025331974}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 7545773797473788291}
+  m_LocalEulerAnglesHint: {x: 0.0000012806587, y: -0.0000072037124, z: -0.00001024528}
+--- !u!1 &2963838241932135079
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6322972341173411439}
+  m_Layer: 0
+  m_Name: Wolf_bones_herNeck3_029
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6322972341173411439
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2963838241932135079}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0051552695, y: -0.016965458, z: -0.16740441, w: -0.98572886}
+  m_LocalPosition: {x: 11.08036, y: 0.000011444092, z: -0.000103235245}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3044775834111321596}
+  m_Father: {fileID: 980268633483023243}
+  m_LocalEulerAnglesHint: {x: 0.5135801, y: 1.7876173, z: 18.148098}
+--- !u!1 &2980859482347778158
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7066199827484100933}
+  m_Layer: 0
+  m_Name: Wolf_bones_herSpine3_014
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7066199827484100933
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2980859482347778158}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.005454497, y: 0.033678915, z: -0.00797462, w: -0.999386}
+  m_LocalPosition: {x: 17.576109, y: -1.4210855e-14, z: 0.00003862381}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6474021561516226000}
+  m_Father: {fileID: 3618435442102028489}
+  m_LocalEulerAnglesHint: {x: -1.3612067, y: -3.9423687, z: 0.11607439}
+--- !u!1 &3035018012647719592
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 645597850098890286}
+  m_Layer: 0
+  m_Name: _rootJoint
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &645597850098890286
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3035018012647719592}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6837566209534046409}
+  - {fileID: 5237255127936876939}
+  m_Father: {fileID: 6221601849282806139}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &3106649299219340627
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6292860897825929739}
+  m_Layer: 0
+  m_Name: bones_HeadBone008_035
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6292860897825929739
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3106649299219340627}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.3267938, y: -0.13701814, z: 0.6504453, w: -0.67182803}
+  m_LocalPosition: {x: -4.212345, y: -5.1871643, z: -7.375661}
+  m_LocalScale: {x: 0.999999, y: 1.000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8790882622819601533}
+  m_Father: {fileID: 3044775834111321596}
+  m_LocalEulerAnglesHint: {x: 32.833836, y: -17.20045, z: -92.57626}
+--- !u!1 &3368871322861238666
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3923222305142120387}
+  m_Layer: 0
+  m_Name: bones_HeadBone007Bone001_034
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3923222305142120387
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3368871322861238666}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.000000067055225, y: 0.000000089406974, z: -0.000000029802319, w: -1}
+  m_LocalPosition: {x: 5.48822, y: 0, z: -0.0000038146973}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1002278201175618257}
+  m_LocalEulerAnglesHint: {x: -0.000001254582, y: 0.000005251971, z: -4.9999948}
+--- !u!1 &3489143125570816172
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4257898746626565533}
+  - component: {fileID: 2678634003801470734}
+  - component: {fileID: 3785403564627591805}
+  m_Layer: 0
+  m_Name: Wolf
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4257898746626565533
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3489143125570816172}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 355694558327957338}
+  m_Father: {fileID: 5975926001041209898}
+  m_LocalEulerAnglesHint: {x: 0, y: 180, z: 0}
+--- !u!95 &2678634003801470734
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3489143125570816172}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 52a7befb545da6b45be4c244bf0d4240, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
+--- !u!65 &3785403564627591805
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3489143125570816172}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.42800426, y: 0.6030774, z: 0.81085587}
+  m_Center: {x: 0.020737112, y: 0.26486182, z: -0.40686893}
+--- !u!1 &3797771782894164822
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7537686865564541030}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLeg1_03
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7537686865564541030
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3797771782894164822}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.62340933, y: 0.7668104, z: -0.062106818, w: 0.13966155}
+  m_LocalPosition: {x: -2.1890125, y: 1.2703094, z: -7.0444827}
+  m_LocalScale: {x: 1, y: 1.000001, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6454988795800369240}
+  m_Father: {fileID: 6837566209534046409}
+  m_LocalEulerAnglesHint: {x: 16.571053, y: 171.3647, z: 79.08125}
+--- !u!1 &3912103731146880905
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2625843220526269264}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLeg1_015
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2625843220526269264
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3912103731146880905}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.17507371, y: -0.12196563, z: 0.3520145, w: -0.9113503}
+  m_LocalPosition: {x: 24.019093, y: -0.000015258789, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4835391727991592088}
+  m_Father: {fileID: 7003320908998731969}
+  m_LocalEulerAnglesHint: {x: 22.57016, y: 8.787381, z: -45.780674}
+--- !u!1 &4004096053764890590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 355694558327957338}
+  m_Layer: 0
+  m_Name: Sketchfab_model
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &355694558327957338
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4004096053764890590}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6558197225704021548}
+  m_Father: {fileID: 4257898746626565533}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4022806533560101512
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3618435442102028489}
+  m_Layer: 0
+  m_Name: Wolf_bones_herSpine2_00
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3618435442102028489
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4022806533560101512}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.006281116, y: 0.039303787, z: -0.05380881, w: -0.9977577}
+  m_LocalPosition: {x: 17.5764, y: 1.4210855e-14, z: 0.000030398369}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7066199827484100933}
+  m_Father: {fileID: 6619504262236282359}
+  m_LocalEulerAnglesHint: {x: -1.4713514, y: -4.003007, z: 6.40553}
+--- !u!1 &4211839917201269935
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5975926001041209898}
+  - component: {fileID: 7059102111532488117}
+  - component: {fileID: 1970603934627823933}
+  - component: {fileID: 3091141140023963561}
+  - component: {fileID: 2113204198501287419}
+  m_Layer: 0
+  m_Name: PlayerWolf
+  m_TagString: Player
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5975926001041209898
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4211839917201269935}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.491, y: 5.476, z: -9.402}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4257898746626565533}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7059102111532488117
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4211839917201269935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5ca9b80111dd2734ea4697e4da627feb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  speed: 10
+  winTextObject: {fileID: 0}
+  collectiblesCount: 22
+  chickenParticle: {fileID: 3885592292841133397, guid: 933c1ffbb80663a43b6ed05e21c6ef94, type: 3}
+  chickenSound: {fileID: 8300000, guid: 29a9f54edfc8fa7498d5a7a2c37b6716, type: 3}
+  countText: {fileID: 0}
+--- !u!54 &1970603934627823933
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4211839917201269935}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!114 &3091141140023963561
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4211839917201269935}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_NotificationBehavior: 0
+  m_UIInputModule: {fileID: 0}
+  m_DeviceLostEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_DeviceRegainedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ControlsChangedEvent:
+    m_PersistentCalls:
+      m_Calls: []
+  m_ActionEvents: []
+  m_NeverAutoSwitchControlSchemes: 0
+  m_DefaultControlScheme: 
+  m_DefaultActionMap: Player
+  m_SplitScreenIndex: -1
+  m_Camera: {fileID: 0}
+--- !u!82 &2113204198501287419
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4211839917201269935}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_Resource: {fileID: 0}
+  m_PlayOnAwake: 0
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    - serializedVersion: 3
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+--- !u!1 &4379424136003615420
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6221601849282806139}
+  m_Layer: 0
+  m_Name: Object_4
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6221601849282806139
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4379424136003615420}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 645597850098890286}
+  - {fileID: 1490021244942485879}
+  - {fileID: 5752371117759257188}
+  - {fileID: 3926062693064262502}
+  - {fileID: 6662151095053571716}
+  - {fileID: 5531140835898909090}
+  m_Father: {fileID: 8550489575175604683}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &4932596582394611543
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8550489575175604683}
+  m_Layer: 0
+  m_Name: RootNode
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8550489575175604683
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4932596582394611543}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: -0, w: -1}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6221601849282806139}
+  m_Father: {fileID: 6899544549084681692}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5018258336488133393
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2380385017041315157}
+  m_Layer: 0
+  m_Name: Wolf_bones_herNeck1_028
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2380385017041315157
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5018258336488133393}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0013626933, y: -0.012112176, z: 0.10302674, w: -0.99460393}
+  m_LocalPosition: {x: 0.003730774, y: -0.0065841675, z: 0.00010728836}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 980268633483023243}
+  m_Father: {fileID: 6474021561516226000}
+  m_LocalEulerAnglesHint: {x: 0.20295317, y: 0.7886748, z: -13.090716}
+--- !u!1 &5278757017746920083
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6558197225704021548}
+  m_Layer: 0
+  m_Name: f1ec99d20c984c7bb13d3a90ebea3858.fbx
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6558197225704021548
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5278757017746920083}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.7071068, y: 0, z: -0, w: -0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6899544549084681692}
+  m_Father: {fileID: 355694558327957338}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &5283458876274604614
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4835391727991592088}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLeg2_017
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4835391727991592088
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5283458876274604614}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.026256887, y: -0.14046185, z: -0.31946555, w: -0.93676186}
+  m_LocalPosition: {x: 14.956348, y: -0.000034332275, z: -0.0002720356}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3056056264484254458}
+  m_Father: {fileID: 2625843220526269264}
+  m_LocalEulerAnglesHint: {x: -8.51368, y: 14.802109, z: 39.053844}
+--- !u!1 &5303571195148152624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4364905833709328754}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLegPalm_09
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4364905833709328754
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5303571195148152624}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.011333826, y: -0.06923166, z: -0.42999592, w: -0.9001011}
+  m_LocalPosition: {x: 25.50052, y: -0.000009536743, z: 0.0000019073486}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2143150309193726165}
+  m_Father: {fileID: 7037817776970550639}
+  m_LocalEulerAnglesHint: {x: -2.2669475, y: 7.7160325, z: 50.406822}
+--- !u!1 &5415355304285444301
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6788773357022221235}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLegDigit02_020
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6788773357022221235
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5415355304285444301}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.0021707946, y: -0.008729736, z: -0.25252613, w: -0.96754825}
+  m_LocalPosition: {x: 4.375637, y: -0.000015258789, z: 0.00000047683716}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 6450104838867517125}
+  m_LocalEulerAnglesHint: {x: -0.011924363, y: 1.0307568, z: 29.255198}
+--- !u!1 &5440679053658025579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7003320908998731969}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLegShoulderblade_016
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7003320908998731969
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5440679053658025579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.8101225, y: 0.55968386, z: -0.041531816, w: 0.16950126}
+  m_LocalPosition: {x: -7.089485, y: -6.431839, z: -5.6360064}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2625843220526269264}
+  m_Father: {fileID: 6474021561516226000}
+  m_LocalEulerAnglesHint: {x: 18.80758, y: 172.01213, z: 108.483925}
+--- !u!1 &5751292134064500553
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 980268633483023243}
+  m_Layer: 0
+  m_Name: Wolf_bones_herNeck2_027
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &980268633483023243
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5751292134064500553}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.010308275, y: -0.028855952, z: 0.019684596, w: -0.9993366}
+  m_LocalPosition: {x: 11.080643, y: 0.0000038146973, z: 0.0000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6322972341173411439}
+  m_Father: {fileID: 2380385017041315157}
+  m_LocalEulerAnglesHint: {x: 1.3062478, y: 2.7783453, z: -3.5836937}
+--- !u!1 &6434093232847453314
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2143150309193726165}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLegDigit01_010
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2143150309193726165
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6434093232847453314}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.1293461, y: -0.030711636, z: -0.12312291, w: -0.98344654}
+  m_LocalPosition: {x: 14.023748, y: 0.4326191, z: -0.48346043}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4860285877605972202}
+  m_Father: {fileID: 4364905833709328754}
+  m_LocalEulerAnglesHint: {x: -14.214391, y: 1.5295982, z: 20.003767}
+--- !u!1 &6702643886290987540
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6474021561516226000}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRibcage_013
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6474021561516226000
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6702643886290987540}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.00000092986073, y: -0.000001300156, z: 0.10694256, w: -0.9942652}
+  m_LocalPosition: {x: 17.574978, y: -0.000015258789, z: -0}
+  m_LocalScale: {x: 0.999999, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7003320908998731969}
+  - {fileID: 7046951017243554972}
+  - {fileID: 2380385017041315157}
+  m_Father: {fileID: 7066199827484100933}
+  m_LocalEulerAnglesHint: {x: -0.00009032644, y: 0.00015907772, z: -12.278189}
+--- !u!1 &7003994746392550533
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 798383163632780113}
+  m_Layer: 0
+  m_Name: bones_HeadBone010_032
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &798383163632780113
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7003994746392550533}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.017241037, y: -0.085433416, z: 0.28142452, w: -0.95561713}
+  m_LocalPosition: {x: 7.925621, y: -1.7174377, z: -4.7549396}
+  m_LocalScale: {x: 1, y: 0.999999, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3044775834111321596}
+  m_LocalEulerAnglesHint: {x: 4.6482234, y: 8.863787, z: -32.458424}
+--- !u!1 &7316184451680495579
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7037817776970550639}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLeg2_08
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7037817776970550639
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7316184451680495579}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.006835904, y: 0.08903157, z: 0.39318237, w: -0.91511434}
+  m_LocalPosition: {x: 28.828588, y: -0.000118255615, z: 0.00004386902}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4364905833709328754}
+  m_Father: {fileID: 4140000070077550302}
+  m_LocalEulerAnglesHint: {x: -6.9478574, y: -11.238741, z: -58.066406}
+--- !u!1 &7345335001250154135
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4860285877605972202}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLegDigit02_011
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4860285877605972202
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7345335001250154135}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.040531237, y: 0.01033223, z: -0.13708325, w: -0.98967606}
+  m_LocalPosition: {x: 5.1138535, y: 0, z: 0.00000023841858}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2143150309193726165}
+  m_LocalEulerAnglesHint: {x: 4.764375, y: -0.53695136, z: 15.74974}
+--- !u!1 &7494328809922662509
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6087914166497818395}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLegDigit01_05
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6087914166497818395
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7494328809922662509}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0.03315686, y: 0.064227164, z: 0.06387285, w: -0.995337}
+  m_LocalPosition: {x: 14.024035, y: 0.42585945, z: 0.4823122}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 8206844375386256178}
+  m_Father: {fileID: 8608143198597230191}
+  m_LocalEulerAnglesHint: {x: 4.524669, y: -6.74895, z: -0.8679521}
+--- !u!1 &7711215637467852624
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1903982247076709040}
+  m_Layer: 0
+  m_Name: bones_HeadBone009_031
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1903982247076709040
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7711215637467852624}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.008628738, y: 0.0427575, z: 0.28223065, w: -0.9583544}
+  m_LocalPosition: {x: 7.925621, y: -1.717453, z: 4.754939}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 3044775834111321596}
+  m_LocalEulerAnglesHint: {x: -2.3310754, y: -4.4245872, z: -32.728825}
+--- !u!1 &7963857299083063984
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4895612920541694854}
+  m_Layer: 0
+  m_Name: Wolf_bones_herRLegPalm_024
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4895612920541694854
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7963857299083063984}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.03122428, y: -0.11912774, z: 0.15537441, w: -0.9801492}
+  m_LocalPosition: {x: 27.475702, y: -0.000011444092, z: 0.000009536743}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 5673673041101939384}
+  m_Father: {fileID: 3242869599917845328}
+  m_LocalEulerAnglesHint: {x: -1.2266583, y: 14.015482, z: -18.8493}
+--- !u!1 &8651120166641195903
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6450104838867517125}
+  m_Layer: 0
+  m_Name: Wolf_bones_herLLegDigit01_019
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6450104838867517125
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8651120166641195903}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.13769327, y: 0.059987616, z: 0.10732209, w: -0.9828143}
+  m_LocalPosition: {x: 8.157536, y: 0.63365173, z: 0.016990662}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6788773357022221235}
+  m_Father: {fileID: 3056056264484254458}
+  m_LocalEulerAnglesHint: {x: -19.00774, y: -8.116288, z: -0.073680155}
+--- !u!1 &9035623376115697406
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8916493777090934450}
+  m_Layer: 0
+  m_Name: Wolf_bones_herTail4_040
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8916493777090934450
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9035623376115697406}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0.024953125, y: -0.0132684205, z: -0.23132919, w: -0.972465}
+  m_LocalPosition: {x: 14.492233, y: 0, z: -3.5527137e-15}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 4618518433801319713}
+  m_LocalEulerAnglesHint: {x: -4.7419877, y: 1.8858786, z: 21.913145}
