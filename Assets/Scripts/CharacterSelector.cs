@@ -30,6 +30,8 @@ public class CharacterSelector : MonoBehaviour
             Destroy(currentCharacter);
 
         currentCharacter = Instantiate(characterPrefabs[currentIndex], spawnPoint.position, spawnPoint.rotation);
+        var controller = currentCharacter.GetComponent<PlayerController>();
+        Destroy(controller);
     }
 
     public void ConfirmSelection()

@@ -13524,6 +13524,8 @@ MonoBehaviour:
   enemy: {fileID: 840250959}
   buttonRestart: {fileID: 1666666842}
   buttonMainMenu: {fileID: 1291831948}
+  chickenParticle: {fileID: 3885592292841133397, guid: 933c1ffbb80663a43b6ed05e21c6ef94, type: 3}
+  chickenSound: {fileID: 8300000, guid: 29a9f54edfc8fa7498d5a7a2c37b6716, type: 3}
 --- !u!4 &1957735887
 Transform:
   m_ObjectHideFlags: 0

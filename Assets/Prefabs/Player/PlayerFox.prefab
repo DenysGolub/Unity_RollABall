@@ -1672,7 +1672,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7725366453452943079}
-  - component: {fileID: -4241117354478532767}
   - component: {fileID: -3217923535879798586}
   - component: {fileID: 1966550031828548038}
   - component: {fileID: -9056169069056157262}
@@ -1700,24 +1699,6 @@ Transform:
   - {fileID: 3789764786954722717}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &-4241117354478532767
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 7782167377285371162}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5ca9b80111dd2734ea4697e4da627feb, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  speed: 10
-  winTextObject: {fileID: 0}
-  collectiblesCount: 22
-  chickenParticle: {fileID: 3885592292841133397, guid: 933c1ffbb80663a43b6ed05e21c6ef94, type: 3}
-  chickenSound: {fileID: 8300000, guid: 29a9f54edfc8fa7498d5a7a2c37b6716, type: 3}
-  countText: {fileID: 0}
 --- !u!54 &-3217923535879798586
 Rigidbody:
   m_ObjectHideFlags: 0
